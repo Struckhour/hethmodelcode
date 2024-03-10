@@ -1,0 +1,1 @@
+code that is part of the youtube tutorial for building a hermit thrush song detection program. This code is used for building the machine learning image classifier, but likely would need to be adjusted for a different task.
